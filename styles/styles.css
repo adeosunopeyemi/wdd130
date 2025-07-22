@@ -1,0 +1,22 @@
+nav{
+    background-color: blueviolet;
+    padding: 12px;
+}
+nav a{
+    color: green
+    display: block;
+    padding: 20px;
+}
+h1{
+    color: darkgoldenrod;
+}
+img{
+    width: 211px;
+    height: 22px;
+    border: 2px greenyellow;
+    padding: auto;
+    box-shadow: 0 0 29px purple;
+}
+p{
+    padding: 10px;
+}
